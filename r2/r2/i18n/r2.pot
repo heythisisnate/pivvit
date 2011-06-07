@@ -1328,7 +1328,7 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:340
 msgid "reddit tools"
-msgstr ""
+msgstr "pivvit tools"
 
 #: r2/lib/pages/pages.py:348
 msgid "job board"
@@ -2898,7 +2898,7 @@ msgstr ""
 
 #: r2/templates/searchform.html:32
 msgid "search reddit"
-msgstr ""
+msgstr "search pivvit"
 
 #: r2/templates/selfserveblurb.html:59
 msgid "inquire about advertising on reddit"

@@ -775,7 +775,7 @@ class _DefaultSR(FakeSubreddit):
 
     @property
     def title(self):
-        return _("reddit: the voice of the internet -- news before it happens")
+        return _("pivvit: the voice of Pivots worldwide")
 
 # This is the base class for the instantiated front page reddit
 class DefaultSR(_DefaultSR):
